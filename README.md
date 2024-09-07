@@ -4,7 +4,7 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
 ### AIM:
-To Implement Linear and Polynomial Trend Estiamtion Using Python.
+To Implement Linear and Polynomial Trend Estiamtion on Google stock data Using Python.
 
 ### ALGORITHM:
 Load and prepare data: Load the stock data, convert 'Date' to datetime, and reset the index for model fitting.
@@ -78,4 +78,4 @@ print("Polynomial Trend Equation (Degree 2): y = {:.2f} * x^2 + {:.2f} * x + {:.
 
 
 ### RESULT:
-Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
+Thus the python program for linear and Polynomial Trend Estiamtion on Google stock data has been executed successfully.
